@@ -1,4 +1,4 @@
-# 👋 Hi, I’m @awkitsune
+# 👋 Hi, I’m Vladimir `awkitsune` Kosickij
 - 👀 I’m interested in C# development DSi console and instant noodles
 - 🌱 I’m currently learning C# and some other small things
 - 📫 How to reach me... good question actually! Constact me on Telegram [@awkitsune](https://t.me/awkitsune) or [Email](mailto:vladimir.kosickij@gmail.com)
