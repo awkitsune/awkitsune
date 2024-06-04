@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Vladimir `awkitsune` Kosickij
-- 👀 I’m interested in C# development DSi console and instant noodles
-- 🌱 I’m currently learning C# and some other small things
+- 👀 I’m interested web development using Angular with TypeScript. Also I like idea of clean and neat UIs with inclusion of glass materials (kinda like apple design language)
+- 🌱 I’m currently learning TypeScript, LaTeX and some other small things
 - 📫 How to reach me... good question actually! Constact me on Telegram [@awkitsune](https://t.me/awkitsune) or [Email](mailto:vladimir.kosickij@gmail.com)
 
 
